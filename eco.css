@@ -1,0 +1,132 @@
+body{
+    overflow-x: hidden;
+}
+
+.eco1{
+
+    font-size: 34px;
+
+
+}
+.eco2{
+    width: 95%;
+    height: 300px;
+    margin-bottom: 30px;
+}
+.eco2 img{
+    width: 90%;
+    height: 300px;
+}
+.aboutus{
+    position: relative;
+    background-color: darkslategray;
+    width: 1000px;
+    height: 600px;
+    left: 70px;
+    color: aliceblue;
+}
+.aboutus .imgco{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+
+}
+
+.aboutus img{
+    position: relative;
+    top: 20px;
+    width: 300px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 50%;
+    
+}
+.imgh1{
+    position: absolute;
+    color: rgb(244, 240, 237);
+    text-align: center;
+    top: 125px;
+    text-decoration: underline;
+    left: 44%;
+    margin-bottom: 50px;
+}
+.aboutus p:first-child(1){
+    margin-bottom: 30px;
+    font-size: 29px;
+}
+.divpara .myh11{
+    color: rgb(38, 0, 255);
+    position: relative;
+    top: -50px;
+
+}
+.divpara .myh6{
+    color: blueviolet;
+}
+.divpara{
+    margin-top: 30px;
+ 
+    position: relative;
+    left: 100px;
+    width: 80%;
+    padding: 10px;
+    font-size: 20px;
+}
+.divpara p h3{
+    margin-bottom: 10px;
+    color: blue;
+}
+
+
+.myfeuturepara{
+    border: 2px solid white;
+    margin-top: 30px;
+    padding: 30px;
+    font-size: 20px;
+
+}
+.div1{
+    border: solid 2px white;
+    display: flex;
+    
+    
+}
+.div1 img{
+    width: 616px;
+    border: 2px solid gray;
+    margin-right: 20px;
+    
+}
+.div2{
+    display: flex;
+    justify-content: space-between;
+}
+.div2 img{
+    width: 616px;
+    border: 2px solid gray;
+    margin-right: 20px;
+    
+}
+.divsupport{
+    width: 800px;
+    height: 750px;
+    font-size: 20px;
+    border: 2px solid red;
+    position: relative;
+    left: 25%;
+    padding: 30px;
+    background-color: darkgoldenrod;
+    
+}
+.divecooo {
+    width: 380px;
+    height: 320px;
+    position: absolute;
+    z-index: 1;
+    top: 420px;
+    left: 30px;
+    color: rgb(43, 0, 255);
+    font-size: 18px;
+   
+}
